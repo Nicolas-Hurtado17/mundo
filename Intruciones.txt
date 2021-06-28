@@ -1,0 +1,4 @@
+1 paso migrar base de datos a una mysql
+2 paso migrar datos db seeed
+3 correr back
+4 correr front
